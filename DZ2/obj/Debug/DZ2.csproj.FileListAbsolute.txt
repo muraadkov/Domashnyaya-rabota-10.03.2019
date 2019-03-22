@@ -1,0 +1,6 @@
+c:\users\murka\source\repos\ConsoleApp2\DZ2\bin\Debug\DZ2.exe.config
+c:\users\murka\source\repos\ConsoleApp2\DZ2\bin\Debug\DZ2.exe
+c:\users\murka\source\repos\ConsoleApp2\DZ2\bin\Debug\DZ2.pdb
+c:\users\murka\source\repos\ConsoleApp2\DZ2\obj\Debug\DZ2.csproj.CoreCompileInputs.cache
+c:\users\murka\source\repos\ConsoleApp2\DZ2\obj\Debug\DZ2.exe
+c:\users\murka\source\repos\ConsoleApp2\DZ2\obj\Debug\DZ2.pdb
